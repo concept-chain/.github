@@ -4,16 +4,16 @@
  
 ## Toopit Product Overview
 ### 📝 Note Management App
-    - 📝 Clear Note ( Main Note App )
+    - 📝 ClearNote ( Main Note App )
     
     - 📖 LifeLog ( Diary App )
     
-    - 📒 Smart Wealth ( Finance Note )
+    - 📒 SmartWealth ( Finance Note )
   
 ### 🧠 Logic Management Product Overview
     - 🔗 Concept-Chain
     
-    - 🌌 Concept Space
+    - 🌌 ConceptSpace
 
 ### 🌐 Concept Share Product
     - 📚 Real Dictionary ( AR Dictionary )
