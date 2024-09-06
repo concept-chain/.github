@@ -1,8 +1,8 @@
 ## Company Overview
 
-## Product Overview
+## Toopit Product Overview
 ### Note Management App
-- Memo Note : General Note Taking App( Main App )
+- Clear Note : Main Note App
 - LifeLog : Diary App
 - Finance Note : 
   
