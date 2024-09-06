@@ -1,5 +1,18 @@
-## Hi there 👋
+## Company Overview
 
+## Product Overview
+### Note Management App
+- Memo Note : General Note Taking App( Main App )
+- LifeLog : Diary App
+- Finance Note : 
+  
+### Logic Management Product Overview
+- Concept-Chain
+- Concept Space
+
+### Concept Share Product
+- AR Dictionary
+  
 <!--
 
 **Here are some ideas to get you started:**
