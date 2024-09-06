@@ -8,7 +8,9 @@
     
     - 📖 LifeLog ( Diary App )
     
-    - 📒 SmartWealth ( Finance Note )
+    - 📒 SmartWealth ( Finance Note App )
+
+    - 🎉 MomentMemo ( Event Note App )
   
 ### 🧠 Logic Management Product Overview
     - 🔗 Concept-Chain
