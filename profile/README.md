@@ -1,7 +1,8 @@
 ## Company Overview
-    At Make Toopit, our mission is to empower individuals and businesses by providing innovative solutions that simplify everyday tasks and enhance productivity. We believe that creativity and efficiency should go hand in hand.
+    At Make Toopit, our mission is to empower individuals and businesses by providing innovative solutions that simplify everyday tasks and enhance productivity.
+    We believe that creativity and efficiency should go hand in hand.
     To become a leading provider of user-friendly tools that inspire creativity and streamline workflows, making complex tasks simple and accessible for everyone.
- 
+
 ## Toopit Product Overview
 ### 📝 Note Management App
     - 📝 ClearNote ( Main Note App )
@@ -24,7 +25,8 @@
 
 ## Future Goals:
 
-    We aim to expand our product offerings, enhance user experience, and grow our community of users globally. Our goal is to continuously innovate and adapt to the ever-changing landscape of productivity tools.
+    We aim to expand our product offerings, enhance user experience, and grow our community of users globally.
+    Our goal is to continuously innovate and adapt to the ever-changing landscape of productivity tools.
 
 <!--
 
