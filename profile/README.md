@@ -1,7 +1,7 @@
 ## Company Overview
-    At Make Toopit, our mission is to empower individuals and businesses by providing innovative solutions that simplify everyday tasks and enhance productivity.
-    We believe that creativity and efficiency should go hand in hand.
-    To become a leading provider of user-friendly tools that inspire creativity and streamline workflows, making complex tasks simple and accessible for everyone.
+At Make Toopit, our mission is to empower individuals and businesses by providing innovative solutions that simplify everyday tasks and enhance productivity.
+We believe that creativity and efficiency should go hand in hand.
+To become a leading provider of user-friendly tools that inspire creativity and streamline workflows, making complex tasks simple and accessible for everyone.
 
 ## Toopit Product Overview
 ### 📝 Note Management App
