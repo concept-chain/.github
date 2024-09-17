@@ -4,7 +4,7 @@ We believe that creativity and efficiency should go hand in hand.
 To become a leading provider of user-friendly tools that inspire creativity and streamline workflows, making complex tasks simple and accessible for everyone.
 
 ## Toopit Product Overview
-### 📝 Note Management App
+### 📝 Note Management Apps
     - 📝 ClearNote ( Main Note App )
     
     - 📖 LifeLog ( Diary App )
