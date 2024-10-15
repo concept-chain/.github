@@ -29,7 +29,7 @@ We aim to expand our product offerings, enhance user experience, and grow our co
 Our goal is to continuously innovate and adapt to the ever-changing landscape of productivity tools.
 
 ## Team Members:
-goodperson722
+@goodperson722, @skystarxtogether, @passionaboutit, @passionit91, @rabbit-oppa
 <!--
 
 **Here are some ideas to get you started:**
