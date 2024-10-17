@@ -23,6 +23,9 @@ To become a leading provider of user-friendly tools that inspire creativity and 
     
     - 🖋️ InkBlot ( Blog App )
 
+### 📊 Resource Management Product
+    - 📈 SRMS ( Society Resource Management System)
+    
 ## Future Goals:
 
 We aim to expand our product offerings, enhance user experience, and grow our community of users globally.
